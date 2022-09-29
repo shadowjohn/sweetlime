@@ -4,6 +4,8 @@
 
 Github Project 網址 http://github.com/lime-ime/    http://www.limeime.org/
 
+Release: https://github.com/shadowjohn/sweetlime/raw/master/LimeStudio/app/build/outputs/apk/debug/app-debug.apk
+
 **目前的 LIME HD 已經很久沒有更新了。所以我把它 fork 一份來改成自己想要的型式。**
 
 ## 主要更動
